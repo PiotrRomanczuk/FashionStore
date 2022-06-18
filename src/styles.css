@@ -1,16 +1,8 @@
 
-
-.main {
-    background-image: url('./images/RF_SEE_7_SENSES_STORE_6.jpeg')
-    );
-
-
-}
-
-
 .HW {
-    font-size: medium;
-    background-color: aqua;
     font-family: 'Karla';
+    font-size: medium;
     
+    background-image: url('./images/RF_SEE_7_SENSES_STORE_6.jpeg');
+    height: 500px;
 }
