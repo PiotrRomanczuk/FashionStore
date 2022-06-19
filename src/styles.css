@@ -1,8 +1,15 @@
 
+.root {
+    background-image: url('./images/RF_SEE_7_SENSES_STORE_6.jpeg');
+    height: 500px;
+}
+
 .HW {
     font-family: 'Karla';
     font-size: medium;
-    
-    background-image: url('./images/RF_SEE_7_SENSES_STORE_6.jpeg');
-    height: 500px;
+    position:relative;
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
 }
