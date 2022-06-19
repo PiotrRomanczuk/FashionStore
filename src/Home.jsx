@@ -1,8 +1,8 @@
 import '../styles.css'
 
-const App = () => {
+const Home = () => {
   return <div className='header'>
   </div>;
 };
 
-export default App;
+export default Home;
